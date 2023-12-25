@@ -50,7 +50,7 @@
 
 
 ### Reference
-
+- [DevOps Roadmap](https://roadmap.sh/devops), [DevOps Roadmap for beginners - Video](https://youtu.be/7pT0oviBZk0?si=xvZVADoFwJrfrv7D)
 - [DevOps Beginners to Advanced with Projects - 2023](https://www.udemy.com/course/decodingdevops/)
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi), [Networking Fundamentals - Outline](https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/)
 - [FastAPI](https://fastapi.tiangolo.com/tutorial/)
