@@ -1,0 +1,42 @@
+Senior DevOps Engineer - (AZ - TS Clearance)
+Rapidly Growing Optical Remote Sensing Co. Seeks Senior DevOps Engineer! Tucson, AZ!
+
+We are a rapidly growing company that provides services to the aerospace and defense industry related to sensors & electro-optics! We've been in business for over 15 years, and as we grow our team, we are searching for people who want to build long-term careers with us!
+What's In It for You
+Competitive compensation contingent on experience
+Straight-time overtime pay
+Medical (100% covered for employees and dependents), Dental, Vision Insurance
+401k (6% match with no employee contribution required)
+PTO = 20 days
+Bonus potential
+Opportunity to work on challenging projects with a bright/passionate team!
+What You Need for this Position
+An active US Government Security Clearance or the ability to obtain a Clearance (Current SSBI is preferred)
+4-8+ years of hands-on experience with architecting solutions in AWS
+Experience in supporting DevOps tool chain and pipeline environments such as Jira, Confluence, Bitbucket, Jenkins, SonarQube, and Artifactory
+Experience working with Container technologies (Kubernetes, Docker, etc.)
+Proficiency in Linux system administration
+Ability to design, enable, and deliver scalable and automated strategies through Infrastructure as Code (IaC) tools, such as Ansible and Terraform
+Experience managing cloud network resources (AWS Preferred) such as VPC, URL proxies, private link, DNS, ACLs, firewalls, and C2S access points
+Experience in key AWS services (EC2, ELB, RDS, Route53, CloudWatch, and S3)
+Scripting and/or coding skills (Java, Python, Terraform, Bash, etc.)
+CompTIA Security+ certification (or within 3 months of hire)
+AWS Certified Solutions Architect Associate
+Bachelors and/or masters degree in Computer Science, Engineering, or related field
+What You Will Be Doing
+Support current AWS development and test environments, collaborating with project and customer team members, while spearheading improved solutions toward benefits in reuse and operational efficiencies
+Maintain synergy with Security and IT for compliance alignment
+Provide inputs into the future direction of enterprise architecture for programs
+Participate in Agile sprints and associated activities
+Support engagements related to assessing, refactoring, and identifying opportunities for existing applications that take advantage of modern application architectures (microservices, containers, etc.)
+Determine requirements for load balancers and/or auto-scaling infrastructure
+Automate application deployment into varied and complex environments using virtual machines, container technologies, Kubernetes, Cloud environments, and bare metal servers
+So, if you have the experience above, please apply today or email me directly at edwin.ocampo@cybercoders.com!
+Applicants must be authorized to work in the U.S.
+
+
+CyberCoders is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.

@@ -1,0 +1,60 @@
+Company Overview
+At Spire, we believe energy exists to help people. To enrich their lives, grow their businesses, advance their communities. It’s a simple idea, but one that’s at the heart of our business. We’re dedicated to understanding our customers’ needs and goals to better serve them today and tomorrow. That’s why we’re always looking for driven, collaborative people to join our team. Because we believe that offering our customers the best service means bringing together the best people.
+And we find the best by hiring those who share our values of safety, inclusion and integrity, and demonstrate our four essential behaviors that bring the Spire culture to life:
+We make it happen: We are a company of go-getters, acting on every opportunity to help our company advance.
+We seek out perspective: We challenge ourselves to be open to different ways of doing things, because learning from each other leads to breakthroughs.
+We collaborate: We put teamwork first, bringing in everyone’s ideas, because our collective energy makes us stronger.
+We care: We treat people how we want to be treated, listening closely and doing what’s right, even when it’s hard
+By living our values and behaviors every day, we strive to create an environment where every employee feels welcome, respected, and valued.
+
+Summary
+Spire is seeking a Senior DevOps Engineer to play a key role in Spire’s evolution in the DevOps journey. This role will be primarily responsible for playing a specialized technical role to enhance, mature, and support a wide range of applications that enable Spire’s critical business processes.
+
+Duties and Responsibilities
+Lead and oversee migration standards, release management and application deliverable migrations within the Shared Services group, and partnering with stakeholders to execute on vision.
+Responsible for the Release Management lifecycle that involves the stages such as scheduling the release, coordinating between teams, and deployment of release as per the schedule on-premise and cloud applications.
+Understanding of CI/CD pipeline and contribute towards in DevOps automation scripts to improve system reliability and efficiency.
+Identify and manage the risks that may delay the release, to ensure the quality and scope are not compromised.
+Continuously improve the release management process to increase efficiency and quality.
+Develop CI/CD pipeline with Gitlab, Jenkins build, Artifactory and Ansible to facilitate rapid deployment and testing of infrastructure and configuration changes for multiple Agile development teams.
+Responds, when required, to triage production issues related to DevOps duties and follow Service Level Agreement set forth.
+Fully imbedded in Shared Services team, and participates in all agile ceremonies and planning
+Accepts work into the team backlog and owns the commitment related to what has been laid out to be completed each PI.
+Responsible for optimizing, enhancing, and supporting cybersecurity protocols as it relates to the Shared Service application suite
+Research and implement new technology to keep the team at the front of innovation.
+
+Essential Characteristics and Competencies
+Demonstrate servant leader mindset
+Ability to teach and mentor, fostering an environment of continuous learning and progress
+Excellent understanding of software development life cycles
+Strong analytical, planning, and organizational skills
+Strong written and verbal communication skills
+Believes in a non-hierarchical culture of collaboration, transparency, and trust across the ART
+Ability to recognize problems and respond, systematically gather information, sort through complex issues, understand consequences of decisions, provides recommendation, and seeks input from leadership
+
+Supervisory Responsibilities
+No direct supervision required, but indirect technical leadership required.
+Required Education (certifications, licenses)
+Bachelor’s degree - Computer Science, Information Technology, or Technical Engineering required
+5 years of experience in IT Release management and DevOps required
+SAFe certification(s) a plus
+DevOps certification(s) a plus
+Required knowledge, skill and abilities
+3+ years of experience with CI/CD tools such as Gitlab, Jenkins, Ansible, Dockers and Kubernete
+Experience with Oracle and SQL server databases
+Experience with Linux and Windows Operation Systems
+Experience developing in an agile environment a plus
+Advanced knowledge of software development tools and methodologies like Agile & DevOps.
+Advanced knowledge of DevSecOps CI/CD processes and IT Release management
+Advanced knowledge in Gitlab, Jenkins, Ansible, Dockers, Kubernetes, Terraform and equivalent DevOps tools.
+Working knowledge of Source Control best practices
+Strong scripting experience (JavaScript, Groovy, Python, Bash, PowerShell)
+Strong analytical skills/capabilities to solve complex issues arising during design and testing phases
+Ability to work well independently and maintain focus in a highly dynamic work environment
+Physical demands, environment and schedule
+Hybrid Remote/Office environment
+Work performed primarily during business hours, with off-hours support required at times
+Some travel may be required as ITS and teams are disparate across locations (primarily St. Louis and Birmingham)
+
+Posting Requirements
+Spire accepts online applications through our career site at jobs.spireenergy.com
