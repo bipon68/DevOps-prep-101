@@ -3,6 +3,7 @@
 ## Table of Contents
 - [ ] DevOps
 - [ ] AWS Foundation
+- [ ] DevOps Roadmap for Beginners
 
 ### DevOps
 
@@ -90,6 +91,7 @@
 - [DevOps Beginners to Advanced with Projects - 2023](https://www.udemy.com/course/decodingdevops/)
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi), [Networking Fundamentals - Outline](https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/)
 - [FastAPI](https://fastapi.tiangolo.com/tutorial/)
+- [Free courses bn](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-bn.md)
 
 ### Tools
 - https://app.gitbook.com/
