@@ -90,11 +90,17 @@
 - [DevOps Roadmap](https://roadmap.sh/devops), [DevOps Roadmap for beginners - Video](https://youtu.be/7pT0oviBZk0?si=xvZVADoFwJrfrv7D), [DevOps Roadmap for Beginners - Video](https://youtu.be/kZ8_nY-h0ys?si=hBV5RdDkJnD-2kof)
 - [DevOps Beginners to Advanced with Projects - 2023](https://www.udemy.com/course/decodingdevops/)
 - [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi), [Networking Fundamentals - Outline](https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/)
-- [FastAPI](https://fastapi.tiangolo.com/tutorial/)
 - [Free courses bn](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-bn.md)
+- [blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+- [FastAPI](https://fastapi.tiangolo.com/tutorial/)
 
 ### Tools
 - https://app.gitbook.com/
+- https://www.datadoghq.com/
+- https://opentelemetry.io/
 
 ### Channels
 - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
+
+### Books
+- [Free-DevOps-Books](https://github.com/rootusercop/Free-DevOps-Books-1), [DevOps-Books](https://github.com/manjunath5496/DevOps-Books), [DevOps_Books](https://github.com/rohitg00/DevOps_Books)
