@@ -39,7 +39,11 @@
 - compose `docker compose build` `docker-compose build --no-cache`
 - start and stoping application `docker-compose up` `docker-compose up -d` `docker-compose down` `docker volume ls`
 - docker network `docker network ls` `docker exec -it 712 sh` `docker exec -it -u root 712 sh` `docker-compose logs --help` `docker logs 712 -f`
-
+- reduce image size `docker build -t vidly_web_opt -f Dockerfile.prod .`
+- build image optimzely `docker build -t vidly_web_opt -f Dockerfile.prod .`
+- production build `docker-compose -f docker-compose.prod.yml build`
+- production up `docker-compose -f docker-compose.prod.yml up -d` image rebuild `docker-compose -f docker-compose.prod.yml up -d --build`
+- docker machin evn `docker-machine env vidly` `eval $(docker-machine env vidly)`
 ### Linux command
 - create folder `mkdir test`
 - rename folder name `mv test docker` output `docker`
@@ -57,5 +61,9 @@
 - copy file `cp dev2/file4.txt dev` move `mv dev2/file5.txt dev` rename `mv dev2/file6.txt dev2/file66.txt` remove directory `rm -r dev2`
 - write something into a file `echo "Hello World" > dev2/file4.txt` file read `cat dev2/file4.txt`
 - data show in long `ls -l`
+
+### Server config (vultr)
+
+- going to editor panel. write this <ssh root@serverIP> `ssh root@139.180.139.113` press enter. Showing a password : `password` Press Enter. 
 
 
