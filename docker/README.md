@@ -30,12 +30,15 @@
 - container start and stop `dokcer stop c1` `dokcer start c1` 
 - container remove `docker rm c1` `docker rm -f ch1`
 - filter `ls | grep data
-- volume `docker volume create app-data` `docker volume inspect app-data` `docker run -d -p 4000:3001 -v app-data:/app/data react-app`
+- volume `docker volume create app-data` `docker volume inspect app-data` `docker run -d -p 4000:3001 -v app-data:/app/data react-app` ` docker volume ls` `docker volume rm vidly_vidly`
 - copy file container host to `docker cp 862087bfb94a:/app/log.txt` `docker cp secret.txt 862087bfb94a:/app`
 - sharing the sourcecode with a container `docker run -d -p 5001:3000 -v $(pwd):/app react-app
 - `docker image ls -q` only showing image id
 - all container remove `docker container rm -f $(docker container ls -aq)`
 - all image remove `docker image rm -f $(docker image ls -q)` 
+- compose `docker compose build` `docker-compose build --no-cache`
+- start and stoping application `docker-compose up` `docker-compose up -d` `docker-compose down` `docker volume ls`
+- docker network `docker network ls` `docker exec -it 712 sh` `docker exec -it -u root 712 sh` `docker-compose logs --help` `docker logs 712 -f`
 
 ### Linux command
 - create folder `mkdir test`
