@@ -35,11 +35,11 @@ step 8: sudo ip netns exec ns1 ip link set dev ‘myns-1-eth0’ up
 step 9: sudo ip netns exec ns2 ip link set dev ‘myns-2-eth0’ up
 `
 
-# Route up
+#### Route up
 - sudo ip netns exec ns1 ip route add default via 10.0.0.1 dev eth0
 - sudo ip netns exec ns2 ip route add default via 10.0.0.2 dev eth0
 
-# Test connectivity
+#### Test connectivity
 - sudo ip netns exec ns1 ping -c 10.0.0.1
 - sudo ip netns exec ns2 ping -c 10.0.0.2
 
