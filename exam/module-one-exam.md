@@ -1,9 +1,6 @@
-# Exam
+# Exam - Module 1
 
-#### Projects (Module 1)
-- Create two Namespaces and connect them using veth (vm)
-- Create two Namespaces and connect them using Linux bridge (vm/web)
-
+#### Projects - Create two Namespaces and connect them using veth (vm)
 
 #### 1. Create the namespaces
 `

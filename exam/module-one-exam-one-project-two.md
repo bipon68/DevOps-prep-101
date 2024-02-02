@@ -1,9 +1,6 @@
-# Exam
+# Exam - Module 1
 
-#### Projects (Module 1)
-- Create two Namespaces and connect them using veth (vm)
-- Create two Namespaces and connect them using Linux bridge (vm/web)
-
+#### Projects - Create two Namespaces and connect them using Linux bridge (vm/web)
 
 #### 1. Create the namespaces
 `
@@ -39,14 +36,12 @@ step 9: sudo ip netns exec ns2 ip link set dev veth2 up
 
 `
 step 10: sudo ip link add name br0 type bridge
-
 `
 
 #### 7. Connect the Bridge to the Host Network
 
 `
 step 11: sudo ip link set dev br0 up
-
 `
 
 #### 8. Connect the veth Interfaces to the Bridge
@@ -54,9 +49,7 @@ step 11: sudo ip link set dev br0 up
 `
 step 12: sudo ip link set veth1 master br0
 step 13: sudo ip link set veth2 master br0
-
 `
-
 
 
 #### 9. Testing the connectivity
