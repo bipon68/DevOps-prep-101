@@ -7,8 +7,8 @@
 
 #### 1. Create the namespaces
 `
-step 1: sudo ip nets add ns1
-step 2: sudo ip nets add ns2
+step 1: sudo ip netns add ns1
+step 2: sudo ip netns add ns2
 `
 
 #### 2 Create a veth cable with two interface like myns-1-eth0 and myns-2-eth0
