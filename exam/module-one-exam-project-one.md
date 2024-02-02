@@ -53,6 +53,10 @@ In terminal 1 (ns1), you can now ping the IP address myns-2-eth0 in ns2
 
 `ping 10.0.0.2`
 
+### Output
+
+![dd](./images/module-one-exam-project-one.jpg)
+
 
 
 

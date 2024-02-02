@@ -2,6 +2,10 @@
 
 ### Projects - Create two Namespaces and connect them using Linux bridge (vm/web)
 
+### Projects two architecture diagram
+
+![dd](./images/project-two-architecture-diagram.png)
+
 #### 1. Create the namespaces
 `
 step 1: sudo ip netns add ns1
@@ -67,6 +71,16 @@ In terminal 1 (ns1), you can now ping the IP address myns-2-eth0 in ns2
 
 `ping 10.0.0.2`
 
+### Output
 
+![dd](./images/module-one-project-two-output.jpeg)
+
+### Command 
+- sudo ip netns list (showing all Namespaces)
+- ip link show (check for existing interface)
+- ip netns delete ns1
+- ip netns delete ns2
+- ip link delete veth1
+- ip link delete br0
 
 
