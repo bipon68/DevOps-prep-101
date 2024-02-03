@@ -44,6 +44,7 @@
 - production build `docker-compose -f docker-compose.prod.yml build`
 - production up `docker-compose -f docker-compose.prod.yml up -d` image rebuild `docker-compose -f docker-compose.prod.yml up -d --build`
 - docker machin evn `docker-machine env vidly` `eval $(docker-machine env vidly)`
+- inspect image `dokcer inspect container-name`
 ### Linux command
 - create folder `mkdir test`
 - rename folder name `mv test docker` output `docker`
