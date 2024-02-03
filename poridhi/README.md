@@ -9,38 +9,38 @@
 
 **Linux Basic**
 - [x] 01 - Class 1
-	how does Linux work
-	VI Editor
-	File Management
-	User Management
+	- how does Linux work
+	- VI Editor
+	- File Management
+	- User Management
 - [ ] 02 - Class 2
-	Scripting
-	Bash Scripting
-	Shell Scripting
+	- Scripting
+	- Bash Scripting
+	- Shell Scripting
 - [ ] 03 - Class 3
-	Basic Networking Configuaration
+	- Basic Networking Configuaration
 
 
 ### Module Two
 
 **Networking for DevOps**
 - [x] 01 - Class 1
-	how does the switch work
-	How does the router work
-	Create lab using Linux Namespace
+	- how does the switch work
+	- How does the router work
+	- Create lab using Linux Namespace
 - [ ] 02 - Class 2
-	How does the VXLAN work
-	Understanding tcpdump
-	Understanding iptabls
+	- How does the VXLAN work
+	- Understanding tcpdump
+	- Understanding iptabls
 - [ ] 03 - Class 3
-	Understanding IP Address
-	Understanding the OS Model
+	- Understanding IP Address
+	- Understanding the OS Model
 - [ ] 04 - Class 4
-	Total module summary and recape
+	- Total module summary and recape
 - [ ] 05 - Class 5
-	Hands-On Lab Class
+	- Hands-On Lab Class
 - [ ] 06 - Class 6
-	Hands-On Lab Class
+	- Hands-On Lab Class
 
 
 ### Reference
