@@ -101,6 +101,7 @@
 
 ### Channels
 - [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
+- [DevOps - Shawon](https://youtube.com/playlist?list=PLX5nkEGFYk_nrG1cUvwFv6PsgB6E3fpJL&si=pbsW2deSilRtWJr3)
 
 ### Books
 - [Free-DevOps-Books](https://github.com/rootusercop/Free-DevOps-Books-1), [DevOps-Books](https://github.com/manjunath5496/DevOps-Books), [DevOps_Books](https://github.com/rohitg00/DevOps_Books)

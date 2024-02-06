@@ -1,8 +1,8 @@
 # Class Topics
 
 ## Table of Contents
-- [ ] Module One
-- [ ] Module Two
+- [x] Module One
+- [x] Module Two
 
 
 ### Module One
@@ -13,11 +13,11 @@
 	- VI Editor
 	- File Management
 	- User Management
-- [ ] 02 - Class 2
+- [x] 02 - Class 2
 	- Scripting
 	- Bash Scripting
 	- Shell Scripting
-- [ ] 03 - Class 3
+- [x] 03 - Class 3
 	- Basic Networking Configuaration
 
 
