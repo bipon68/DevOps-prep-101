@@ -6,7 +6,11 @@
 - [Docker playground](https://labs.play-with-docker.com/)
 
 ### Docker command
-
+- Syntax and usage of the Docker build command `docker build [OPTIONS] PATH | URL` `docker build -t imagename DockerfilePath`
+- Docker engine `systemctl status docker`
+- create a container `sudo docker run hello-world`
+- running container show `sudo docker ps` `sudo docker ps -a` stop container `sudo docker stop web01 nginx`
+- create a new container `sudo docker run --name web01 -d -p 9080:80 nginx` `sudo docker inspect web01` `ip addr show`
 - build  `docker build -t hello-world .` create a image. `docker image ls` list view `ls -1` `ls -l` 
 - tag added `docker image -t react-app:dev .` `docker image tag react-app:latest react-app:1` `docker image tag 149ad6b6c9bd react-app:latest` `docker image tag 149 bipon68/react-app:2`
 `docker image tag react-app:3 bipon68/react-app:3`
@@ -45,7 +49,12 @@
 - production up `docker-compose -f docker-compose.prod.yml up -d` image rebuild `docker-compose -f docker-compose.prod.yml up -d --build`
 - docker machin evn `docker-machine env vidly` `eval $(docker-machine env vidly)`
 - inspect image `dokcer inspect container-name`
+- Remove stop all container `docker system prune -a`
 ### Linux command
+- root user `sudo -i`
+- Network interfaces allow us to establish communication between a network and a device `ip link list`
+- A route in networking specifies the path for network traffic from source to destination. View the routing table: `ip route show`
+- iptables is a user-space utility for configuring packet filter rules in the Linux kernel's Netfilter framework. View iptables rules: `iptables -L`
 - create folder `mkdir test`
 - rename folder name `mv test docker` output `docker`
 - create new file `touch hello.txt` create multiple file `touch file1.txt file2.txt file3.txt`
