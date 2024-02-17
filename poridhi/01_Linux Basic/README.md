@@ -39,3 +39,12 @@ Additionally, a group of resources and processes can refer to the same namespace
 
 ### Reference
 - [Namespace](https://man7.org/linux/man-pages/man7/namespaces.7.html), [list-namespaces](https://www.baeldung.com/linux/list-namespaces) 
+
+### Reference Repo
+- [playing-with-linux-network-namespaces](https://github.com/umarfchy/playing-with-linux-network-namespaces/)
+- [Linux network namespace](https://github.com/ShrikantaMazumder/linux-network-namespace)
+- [Network-Emulation](https://github.com/vishnusai2183/Network-Emulation)
+- [Networking basics lab](https://github.com/bocajspear1/networking-basics-lab)
+- [linux-network-namespaces-hands-on](https://github.com/faysalmehedi/linux-network-namespaces-hands-on)
+- [pyns2-example-container](https://github.com/terassyi/pyns2/)
+- [linux](https://github.com/maharabhossain1/linux)

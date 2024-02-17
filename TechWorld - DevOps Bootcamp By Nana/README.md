@@ -21,9 +21,9 @@
 
 ### DevOps
 
-**1 - Introduction to DevOps **
+**1 - Introduction to DevOps**
 
-**2 - Operating Systems & Linux Basics **
+**2 - Operating Systems & Linux Basics**
 - [ ] 01 - Introduction to Operating Systems
 - [ ] 02 - Introduction to Virtualization & Virtual Machines
 - [ ] 03 - Setup a Linux Virtual Machine 
@@ -175,7 +175,130 @@
 - [ ] 24 - Demo project: Create Helm Chart for Microservices 
 - [ ] 25 - Demo project: Deploy Microservices with Helmfile 
 
+**11 - Kubernetes on AWS - EKS**
+- [ ] 01 - Container Services on AWS 
+- [ ] 02 - Create EKS cluster with AWS Management Console
+- [ ] 03 - Configure Autoscaling in EKS cluster
+- [ ] 04 - Create Fargate Profile for EKS Cluster 
+- [ ] 05 - Create EKS cluster with eksctl command line tool 
+- [ ] 06 - Deploy to EKS Cluster from Jenkins Pipeline
+- [ ] 07 - BONUS: Deploy to LKE Cluster from Jenkins Pipeline 
+- [ ] 08 - Jenkins Credentials Note on Best Practices 
+- [ ] 09 - Complete CI/CD Pipeline with EKS and DockerHub
+- [ ] 10 - Complete CI/CD Pipeline with EKS and ECR
 
+**12 - Infrastructure as Code with Terraform**
+- [ ] 01 - Introduction to Terraform 
+- [ ] 02 - Install Terraform & Setup Terraform Project
+- [ ] 03 - Providers in Terraform
+- [ ] 04 - Resources & Data Sources 
+- [ ] 05 - Change & Destroy Terraform Resources
+- [ ] 06 - Terraform commands
+- [ ] 07 - Terraform State 
+- [ ] 08 - Output Values 
+- [ ] 09 - Variables in Terraform    
+- [ ] 10 - Environment Variables in Terraform
+- [ ] 11 - Create Git Repository for local Terraform Project
+- [ ] 12 - Automate Provisioning EC2 with Terraform - Part 1 
+- [ ] 13 - Automate Provisioning EC2 with Terraform - Part 2
+- [ ] 14 - Automate Provisioning EC2 with Terraform - Part 3  
+- [ ] 15 - Provisioners in Terraform
+- [ ] 16 - Modules in Terraform - Part 1  
+- [ ] 17 - Modules in Terraform - Part 2
+- [ ] 18 - Modules in Terraform - Part 3
+- [ ] 19 - Automate Provisioning EKS cluster with Terraform - Part 1
+- [ ] 20 - Automate Provisioning EKS cluster with Terraform - Part 2
+- [ ] 21 - Automate Provisioning EKS cluster with Terraform - Part 3
+- [ ] 22 - Complete CI/CD with Terraform - Part 1
+- [ ] 23 - Complete CI/CD with Terraform - Part 2  
+- [ ] 24 - Complete CI/CD with Terraform - Part 3  
+- [ ] 25 - Remote State in Terraform  
+
+**13 - Programming Basics with Python**
+- [ ] 01 - Introduction to Python 
+- [ ] 02 - Installation and Local Setup
+- [ ] 03 - Our first Python Program 
+- [ ] 04 - Python IDE vs Simple File Editor 
+- [ ] 05 - Strings and Number Data Types 
+- [ ] 06 - Variables 
+- [ ] 07 - Functions  
+- [ ] 08 - Accepting User Input 
+- [ ] 09 - Conditionals (if / else) and Boolean Data Type   
+- [ ] 10 - Error Handling with Try-Except
+- [ ] 11 - While Loops
+- [ ] 12 - Lists and For Loops 
+- [ ] 13 - Comments 
+- [ ] 14 - Sets 
+- [ ] 15 - Built-In Functions 
+- [ ] 16 - Dictionary Data Type
+- [ ] 17 - Modules
+- [ ] 18 - Project: Countdown App
+- [ ] 19 - Packages, PyPI and pip 
+- [ ] 20 - Project: Automation with Python (Spreadsheet)
+- [ ] 21 - OOP: Classes and Objects 
+- [ ] 22 - Project: API Request to GitLab
+
+**14 - Automation with Python**
+- [ ] 01 - Introduction to Boto Library (AWS SDK for Python)
+- [ ] 02 - Install Boto3 and connect to AWS
+- [ ] 03 - Getting familiar with Boto
+- [ ] 04 - Terraform vs Python - understand when to use which tool
+- [ ] 05 - Health Check: EC2 Status Checks 
+- [ ] 06 - Write a Scheduled Task in Python
+- [ ] 07 - Configure Server: Add Environment Tags to EC2 Instances 
+- [ ] 08 - EKS cluster information
+- [ ] 09 - Backup EC2 Volumes: Automate creating Snapshots   
+- [ ] 10 - Automate cleanup of old Snapshots
+- [ ] 11 - Automate restoring EC2 Volume from the Backup  
+- [ ] 12 - Handling Errors
+- [ ] 13 - Website Monitoring 1: Scheduled Task to Monitor Application Health 
+- [ ] 14 - Website Monitoring 2: Automated Email Notification 
+- [ ] 15 - Website Monitoring 3: Restart Application and Reboot Server
+
+**15 - Configuration Management with Ansible**
+- [ ] 01 - Introduction to Ansible
+- [ ] 02 - Install Ansible
+- [ ] 03 - Setup Managed Server to Configure with Ansible 
+- [ ] 04 - Ansible Inventory and Ansible ad-hoc commands 
+- [ ] 05 - Configure AWS EC2 server with Ansible
+- [ ] 06 - Managing Host Key Checking and SSH keys 
+- [ ] 07 - Introduction to Playbooks 
+- [ ] 08 - Ansible Modules 
+- [ ] 09 - Collections in Ansible  
+- [ ] 10 - Project: Deploy Nodejs application - Part 1 
+- [ ] 11 - Project: Deploy Nodejs application - Part 2
+- [ ] 12 - Project: Deploy Nodejs application - Part 3 
+- [ ] 13 - Ansible Variables - make your Playbook customizable
+- [ ] 14 - Project Deploy Nexus - Part 1  
+- [ ] 15 - Project Deploy Nexus - Part 2
+- [ ] 16 - Ansible Configuration - Default Inventory File 
+- [ ] 17 - Project: Run Docker applications - Part 1 
+- [ ] 18 - Project: Run Docker applications - Part 2 
+- [ ] 19 - Project: Terraform & Ansible
+- [ ] 20 - Dynamic Inventory for EC2 Servers
+- [ ] 21 - Project: Deploying Application in K8s
+- [ ] 22 - Project: Run Ansible from Jenkins Pipeline - Part 1
+- [ ] 23 - Project: Run Ansible from Jenkins Pipeline - Part 2
+- [ ] 24 - Project: Run Ansible from Jenkins Pipeline - Part 3  
+- [ ] 25 - Ansible Roles - Make your Ansible content more reusable and modular  
+
+**16 - Monitoring with Prometheus**
+- [ ] 01 - Introduction to Monitoring with Prometheus
+- [ ] 02 - Install Prometheus Stack in Kubernetes
+- [ ] 03 - Data Visualization with Prometheus UI
+- [ ] 04 - Introduction to Grafana
+- [ ] 05 - Alert Rules in Prometheus
+- [ ] 06 - Create own Alert Rules - Part 1
+- [ ] 07 - Create own Alert Rules - Part 2
+- [ ] 08 - Create own Alert Rules - Part 3
+- [ ] 09 - Introduction to Alertmanager   
+- [ ] 10 - Configure Alertmanager with Email Receiver
+- [ ] 11 - Trigger Alerts for Email Receiver
+- [ ] 12 - Monitor Third-Party Applications
+- [ ] 13 - Deploy Redis Exporter 
+- [ ] 14 - Alert Rules & Grafana Dashboard for Redis
+- [ ] 15 - Collect & Expose Metrics with Prometheus Client Library (Monitor own App - Part 1)
+- [ ] 16 - Scrape Own Application Metrics & Configure Own Grafana Dashboard (Monitor own App - Part 2)
 
 ### Reference
 
@@ -194,3 +317,6 @@
 
 ### Cloud Server
 - https://www.vultr.com/
+
+### Course Link
+- [devops-bootcamp](https://www.techworld-with-nana.com/devops-bootcamp)
