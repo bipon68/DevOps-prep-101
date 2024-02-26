@@ -1,23 +1,22 @@
 # TechWorld – DevOps Bootcamp By Nana
 
 ## Table of Contents
-- [ ] Introduction to DevOps 
-- [ ] Operating Systems & Linux Basics
-- [ ] Version Control with Git
-- [ ] Bonus - Databases
-- [ ] Build Tools and Package Manager Tools
-- [ ] Cloud & Infrastructure as Service Basics with DigitalOcean
-- [ ] Artifact Repository Manager with Nexus
-- [ ] Containers with Docker
-- [ ] Build Automation & CI/CD with Jenkins
-- [ ] AWS Services
-- [ ] Container Orchestration with Kubernetes
-- [ ] Kubernetes on AWS - EKS
-- [ ] Infrastructure as Code with Terraform
-- [ ] Programming Basics with Python
-- [ ] Automation with Python
-- [ ] Configuration Management with Ansible
-- [ ] Monitoring with Prometheus
+- [ ] 1 - Introduction to DevOps 
+- [ ] 2 - Operating Systems & Linux Basics
+- [ ] 3 - Version Control with Git
+- [ ] 4 - Build Tools and Package Manager Tools
+- [ ] 5 - Cloud & Infrastructure as Service Basics with DigitalOcean
+- [ ] 6 - Artifact Repository Manager with Nexus
+- [ ] 7 - Containers with Docker
+- [ ] 8 - Build Automation & CI/CD with Jenkins
+- [ ] 9 - AWS Services
+- [ ] 10 - Container Orchestration with Kubernetes
+- [ ] 11 - Kubernetes on AWS - EKS
+- [ ] 12 - Infrastructure as Code with Terraform
+- [ ] 13 - Programming Basics with Python
+- [ ] 14 - Automation with Python
+- [ ] 15 - Configuration Management with Ansible
+- [ ] 16 - Monitoring with Prometheus
 
 ### DevOps
 

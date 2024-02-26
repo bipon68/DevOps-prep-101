@@ -6,7 +6,7 @@
 
 
 ### Namespace
-In Linux, a namespace is a feature that allows processes to use the system resources they need but separately from other processes. A namespace is a way to virtualize a global system resource such that a process that needs it operates in an isolated instance of that resource.
+A network namespace is a logical copy of the network stack from the host system. Network namespaces are useful for setting up containers or virtual environments. Each namespace has its own IP addresses, network interfaces, routing tables, and so forth. The default or global namespace is the one in which the host system physical interfaces exist. 
 
 Additionally, a group of resources and processes can refer to the same namespace, but each namespace has individual resources for each. Only processes in the same namespace can identify the changes made in a global resource.
 

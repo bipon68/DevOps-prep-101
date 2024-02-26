@@ -41,6 +41,28 @@
 	- Hands-On Lab Class
 - [ ] 06 - Class 6
 	- Hands-On Lab Class
+	
+### Module Three
+
+**Docker**
+- [ ] 01 - Class 1
+	- Docker Introduction
+	- Basic Concepts
+	- Hands-On
+	- Writing Dockerfile Smartly
+- [ ] 02 - Class 2
+	- Docker Networking Internals
+- [ ] 03 - Class 3
+	- Docker-based MySQL replication
+- [ ] 04 - Class 4
+	- Redis & Kafka deployment and integration
+- [ ] 05 - Class 5
+	- ElasticSearch deployment and integration
+	- Nginx Layer 4 & 7
+	- Load Balancer
+- [ ] 06 - Class 6
+	- Docker Compose 
+	- Full Stack Application Deployment 
 
 
 ### Reference
