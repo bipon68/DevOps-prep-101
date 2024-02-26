@@ -1,13 +1,12 @@
 # Class Topics
 
 ## Table of Contents
-- [x] Module One
-- [x] Module Two
+- [x] Module One - Linux Basic
+- [x] Module Two - Networking for DevOps
+- [x] Module Three - Docker
 
+### Module One - Linux Basic
 
-### Module One
-
-**Linux Basic**
 - [x] 01 - Class 1
 	- how does Linux work
 	- VI Editor
@@ -21,9 +20,8 @@
 	- Basic Networking Configuaration
 
 
-### Module Two
+### Module Two - Networking for DevOps
 
-**Networking for DevOps**
 - [x] 01 - Class 1
 	- how does the switch work
 	- How does the router work
@@ -42,9 +40,8 @@
 - [ ] 06 - Class 6
 	- Hands-On Lab Class
 	
-### Module Three
+### Module Three - Docker
 
-**Docker**
 - [ ] 01 - Class 1
 	- Docker Introduction
 	- Basic Concepts

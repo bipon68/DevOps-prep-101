@@ -14,8 +14,8 @@
 - [ ] 05 - Vagrant & Linux Servers
 - [ ] 06 - Variables, JSON & YAML
 - [ ] 07 - VProfile Project Setup Manual & Automated
-- [ ] 08 - Networking
-- [ ] 09 - Introducing Containers
+- [x] 08 - Networking
+- [x] 09 - Introducing Containers
 - [ ] 10 - Bash Scripting
 - [ ] 11 - AWS Part -1
 - [ ] 12 - AWS Cloud For Project Set Up  Lift & Shift
