@@ -1,5 +1,5 @@
-# Exam - Module 2
-### Part 1:  Make two network namespaces using 'red' and 'green' names, connect them with a bridge, and check connectivity.
+# Exam - Module 2 (Network for DevOps)
+### Part 1:  Make two network namespaces using 'red' and 'green' names, connect them with a bridge, and check connectivity. [Video 1](https://youtu.be/Oe-wweXi14Q?si=7JNWaViWMBcEoBgp), [Video 2](https://youtu.be/Whrwyw1t298?si=EV5wlmm-rVfM6IU1)
 ### Part 2: You have to successfully ping Google's public IP from those network namespaces.
 
 ### Projects two architecture diagram
@@ -55,7 +55,6 @@ step 12: sudo ip link set veth1 master br0
 step 13: sudo ip link set veth2 master br0
 `
 
-
 #### 9. Testing the connectivity
 
 `
@@ -75,12 +74,31 @@ In terminal 1 (ns1), you can now ping the IP address myns-2-eth0 in ns2
 
 ![dd](./images/module-one-project-two-output.jpeg)
 
-### Command 
+### Command  
 - sudo ip netns list (showing all Namespaces)
 - ip link show (check for existing interface)
 - ip netns delete ns1
 - ip netns delete ns2
 - ip link delete veth1
 - ip link delete br0
+- ifconfig
+- ip route show (show route table in current server)
+- ip link list 
+- ip netns list
+- ip netns
+- ip addr (showing device info)
+- sudo iptables -L (showing iptables rule interface)
+- `sudo apt update` `sudo apt install net-tools` `sudo apt install iproute2 -y` `sudo apt install tcpdump` `sudo apt install iputils-ping`
+- `sudo apt install net-tools iproute2 tcpdump iptables iputils-ping -y`
+- tcpdump `sudo tcpdump -i veth1`
+- route added `ip route add default via 192.168.0.1`
+- `sudo tcpdump -i wlp4s0 icmp`
+- `sudo iptables -t nat -L -n -v`
+- SNAT Apply `sudo iptables -t nat -A POSTROUTING -s 198.168.0.0/16 -j MASQUERADE`
+
+
+### Reference
+- [Using veth network interface to connect two network namespaces](https://www.youtube.com/watch?v=6zgHhEpnTGI)
+- [Connecting two network namespaces](https://medium.com/@technbd/creating-network-namespaces-in-linux-system-and-connecting-two-network-namespaces-using-virtual-6031d295f69b)
 
 

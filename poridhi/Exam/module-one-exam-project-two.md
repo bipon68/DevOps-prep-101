@@ -20,7 +20,7 @@ step 3: sudo ip link add veth1 type veth peer name veth2
 #### 3. Next, Connect veth1 interface to ns1 and veth2 to nas2 namespaces:
 `
 step 4: sudo ip link set veth1 netns ns1
-step 5: sudo ip link set veth12 netns ns2
+step 5: sudo ip link set veth2 netns ns2
 `
 
 #### 4. Configure IP addresses for the veth interface :
