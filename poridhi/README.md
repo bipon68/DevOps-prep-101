@@ -3,29 +3,18 @@
 ## Table of Contents
 - [x] Module One - Linux Basic
 - [x] Module Two - Networking for DevOps
-- [x] Module Three - Docker
+- [x] Module Three - Docker for DevOps
 
 ### Module One - Linux Basic
 
-- [x] 01 - Class 1
-	- how does Linux work
-	- VI Editor
-	- File Management
-	- User Management
-- [x] 02 - Class 2
-	- Scripting
-	- Bash Scripting
-	- Shell Scripting
-- [x] 03 - Class 3
-	- Basic Networking Configuaration
+- [x] 01 - Class 1 (how does Linux work,VI Editor,File Management,User Management)
+- [x] 02 - Class 2 (Scripting,Bash Scripting,Shell Scripting)
+- [x] 03 - Class 3 (Basic Networking Configuaration, Namespace)
 
 
 ### Module Two - Networking for DevOps
 
-- [x] 01 - Class 1
-	- how does the switch work
-	- How does the router work
-	- Create lab using Linux Namespace
+- [x] 01 - Class 1 (how does the switch work,How does the router work,Create lab using Linux Namespace)
 - [ ] 02 - Class 2
 	- How does the VXLAN work
 	- Understanding tcpdump
@@ -33,22 +22,15 @@
 - [ ] 03 - Class 3
 	- Understanding IP Address
 	- Understanding the OS Model
+- [x] 04 - Class 4 (Hands-On Lab Class)
+- [x] 05 - Class 5 (Hands-On Lab Class)
 - [ ] 04 - Class 4
 	- Total module summary and recape
-- [ ] 05 - Class 5
-	- Hands-On Lab Class
-- [ ] 06 - Class 6
-	- Hands-On Lab Class
 	
 ### Module Three - Docker
 
-- [ ] 01 - Class 1
-	- Docker Introduction
-	- Basic Concepts
-	- Hands-On
-	- Writing Dockerfile Smartly
-- [ ] 02 - Class 2
-	- Docker Networking Internals
+- [x] 01 - Class 1 (Docker Introduction,Basic Concepts,Hands-On,Writing Dockerfile Smartly)
+- [x] 02 - Class 2 (Docker Networking Internals, Docker Compose)
 - [ ] 03 - Class 3
 	- Docker-based MySQL replication
 - [ ] 04 - Class 4
