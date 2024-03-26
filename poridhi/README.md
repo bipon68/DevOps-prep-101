@@ -24,7 +24,7 @@
 	- Understanding the OS Model
 - [x] 04 - Class 4 (Hands-On Lab Class)
 - [x] 05 - Class 5 (Hands-On Lab Class)
-- [ ] 04 - Class 4
+- [ ] 06 - Class 6
 	- Total module summary and recape
 	
 ### Module Three - Docker
