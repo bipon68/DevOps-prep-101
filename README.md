@@ -83,6 +83,7 @@
 - [Free courses bn](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-bn.md)
 - [blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [FastAPI](https://fastapi.tiangolo.com/tutorial/)
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge), [awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings), [devops-exercises](https://github.com/bregman-arie/devops-exercises)
 
 ### Tools
 - https://app.gitbook.com/
