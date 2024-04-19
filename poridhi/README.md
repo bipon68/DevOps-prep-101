@@ -4,6 +4,7 @@
 - [x] Module One - Linux Basic
 - [x] Module Two - Networking for DevOps
 - [x] Module Three - Docker for DevOps
+- [ ] Module Four - AWS for DevOps
 
 ### Module One - Linux Basic
 
@@ -42,6 +43,17 @@
 - [ ] 06 - Class 6
 	- Docker Compose 
 	- Full Stack Application Deployment 
+	
+### Module Four - AWS for DevOps
+
+- [ ] 01 - Class 1 AWS Intro (Networking Basic for AWS)
+- [ ] 02 - Class 2 AWS Network Architecture Overview
+- [ ] 03 - Class 3 VPC Design 
+- [ ] 04 - Class 4 VPC Peering Hands on
+- [ ] 05 - Class 5 Database in AWS
+- [ ] 06 - Class 6 Different Storage in AWS 
+- [ ] 07 - Class 7 Introduction to managed DNS - Route 53 Q/A Session
+
 
 
 ### Reference
