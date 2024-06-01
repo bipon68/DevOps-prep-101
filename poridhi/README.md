@@ -4,7 +4,7 @@
 - [x] Module One - Linux Basic
 - [x] Module Two - Networking for DevOps
 - [x] Module Three - Docker for DevOps
-- [ ] Module Four - AWS for DevOps
+- [x] Module Four - AWS for DevOps
 
 ### Module One - Linux Basic
 
@@ -46,10 +46,10 @@
 	
 ### Module Four - AWS for DevOps
 
-- [ ] 01 - Class 1 AWS Intro (Networking Basic for AWS)
-- [ ] 02 - Class 2 AWS Network Architecture Overview
-- [ ] 03 - Class 3 VPC Design 
-- [ ] 04 - Class 4 VPC Peering Hands on
+- [x] 01 - Class 1 AWS Intro (Networking Basic for AWS)
+- [x] 02 - Class 2 AWS Network Architecture Overview
+- [x] 03 - Class 3 VPC Design 
+- [x] 04 - Class 4 VPC Peering Hands on
 - [ ] 05 - Class 5 Database in AWS
 - [ ] 06 - Class 6 Different Storage in AWS 
 - [ ] 07 - Class 7 Introduction to managed DNS - Route 53 Q/A Session
@@ -57,23 +57,15 @@
 
 
 ### Reference
-- [DevOps Roadmap](https://roadmap.sh/devops), [DevOps Roadmap for beginners - Video](https://youtu.be/7pT0oviBZk0?si=xvZVADoFwJrfrv7D), [DevOps Roadmap for Beginners - Video](https://youtu.be/kZ8_nY-h0ys?si=hBV5RdDkJnD-2kof)
-- [DevOps Beginners to Advanced with Projects - 2023](https://www.udemy.com/course/decodingdevops/)
-- [Networking Fundamentals](https://www.youtube.com/playlist?list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi), [Networking Fundamentals - Outline](https://www.practicalnetworking.net/index/networking-fundamentals-how-data-moves-through-the-internet/)
-- [Free courses bn](https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-bn.md)
-- [blind-75-leetcode-questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
-- [FastAPI](https://fastapi.tiangolo.com/tutorial/)
+- [What is VPC Endpoint](https://youtu.be/xYX28OxSE_8?si=F_HVOzBC0RnyXlCq)
 
 ### Tools
-- https://app.gitbook.com/
-- https://www.datadoghq.com/
-- https://opentelemetry.io/
+- [Subnet Calculator](https://mxtoolbox.com/subnetcalculator.aspx)
 
 ### Channels
-- [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla)
+- [Abhishek.Veeramalla](https://www.youtube.com/@AbhishekVeeramalla), [Gaurav Sharma](https://www.youtube.com/@GouravSharma)
 
 ### Books
-- [Free-DevOps-Books](https://github.com/rootusercop/Free-DevOps-Books-1), [DevOps-Books](https://github.com/manjunath5496/DevOps-Books), [DevOps_Books](https://github.com/rohitg00/DevOps_Books)
+
 
 ### Cloud Server
-- https://www.vultr.com/

@@ -1,0 +1,60 @@
+About the job
+Have you got what it takes to join a rapidly growing AI company on a mission to transform enterprise voice communication? You will join a team of leaders that are Oxford University professors, former salesforce.com senior execs and advisors that hail from top roles at the world’s leading software companies. RocketPhone is set for rapid scale and we want the best to join us on that journey, so if you’re the top engineer at your current employer, if you want to have global impact and if you want to associate yourself with one of the biggest AI growth stories, then we want to talk to you!
+
+
+At RocketPhone.ai we are looking for a Sr. DevOps Engineer to help us build functional systems that improve customer experience. Your responsibilities will include deploying product updates, identifying production issues and implementing integrations that meet customer needs.
+
+
+Details:
+
+ Job Title: Sr DevOps Engineer
+ Job Type: Full Time
+ Work location: Dhaka, Bangladesh
+ Work Mode: On Site
+ Work Experience: 5+ years of experience in DevOps or related fields, with a proven track record of implementing effective DevOps practices.
+
+
+Responsibilities:
+
+ -CI/CD Pipeline Management: Design, implement, and manage CI/CD pipelines to automate software integration, testing, deployment, and delivery processes.
+ -Infrastructure as Code (IaC): Use tools like Terraform, CloudFormation, or Ansible to automate the provisioning and management of cloud infrastructure.
+ -Monitoring and Optimization: Implement monitoring solutions to track performance, and optimize infrastructure for cost-effectiveness and scalability.
+ -Security and Compliance: Ensure infrastructure and applications comply with industry security standards and practices to safeguard against vulnerabilities.
+ -Collaboration: Work closely with development, operations, and security teams to foster a culture of continuous improvement and efficiency.
+ -Continuous Learning: Keep up-to-date with the latest technologies and practices in DevOps, cloud computing, and software development to drive innovation within the company. 
+
+
+
+Must Have Skills:
+
+ -CI/CD Tools Proficiency: Extensive experience with CI/CD tools (e.g., Jenkins, GitLab CI, CircleCI) for automating software delivery processes.
+ -Cloud Services Expertise: In-depth knowledge of cloud service providers (AWS, Azure, GCP), including managed services for computing, storage, and networking.
+ -Containerization and Orchestration: Strong skills in containerization technologies (Docker) and orchestration systems (Kubernetes, Docker Swarm).
+ -Infrastructure as Code (IaC): Proficiency in IaC tools (Terraform, CloudFormation, Ansible) for infrastructure automation.
+ -Scripting and Automation: Solid experience in scripting languages (Bash, Python) to automate tasks and workflows.
+ -Problem-Solving: Excellent problem-solving skills with the ability to troubleshoot and resolve infrastructure and deployment issues. 
+
+
+
+Nice-to-Have:
+
+ -Microservices Architecture: Understanding of microservices architecture principles and patterns for building scalable applications.
+ -Security Tools and Practices: Familiarity with security tools and practices (e.g., vulnerability scanning, secure coding practices) to enhance the security posture of CI/CD pipelines and cloud environments.
+ -Performance Monitoring: Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack) to ensure high availability and performance.
+ -Agile and DevOps Culture: Experience working in Agile development environments and promoting a DevOps culture of collaboration and continuous improvement.
+ -Certifications: DevOps, cloud provider (AWS, Azure, GCP), or Kubernetes certifications are a plus.
+ -Project Management: Experience with project management tools and methodologies to lead DevOps initiatives.
+
+
+To be a successful Rocketeer, the candidate must also:
+
+ -Work well in a collaborative, team-based environment (both work autonomously and as part of a team)
+ -Be a self-starter who enjoys collaborating
+ -Have strong English communication skill
+ -Possess strong Investigation Skills and Patience 
+
+
+
+ Educational Qualification:
+
+ Degree in Computer Science, Information Systems, or equivalent experience in a related field.
