@@ -3,7 +3,7 @@
 ### Part 2: Install and configure and Nginx server on on of the instance, which should be located within a private subnet of its respective VPC. 
 ### Part 3: Configure the second EC2 instance, situated in a private subnet of the other VPC, to establish communication with the Nginx server
 
-### Projects two architecture diagram
+### Projects architecture diagram
 
 ![dd](./images/vpc-communication-within-two.png)
 
